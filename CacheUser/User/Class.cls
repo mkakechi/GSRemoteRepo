@@ -1,7 +1,7 @@
 Class User.Class Extends %Persistent
 {
 
-Property P1 As %String;
+Property P1 As %Integer;
 
 Storage Default
 {
